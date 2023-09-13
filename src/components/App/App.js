@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components/macro';
 
 import Header from '../Header';
+import SuperHeader from '../SuperHeader';
 import ShoeIndex from '../ShoeIndex';
 
 const App = () => {
